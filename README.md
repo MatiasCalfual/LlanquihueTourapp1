@@ -1,4 +1,17 @@
+<p>
+  <img src="https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png" width="300"/>
+</p>
+
+
+
 # LlanquihueTourApp
+
+
+## Autor del Proyecto
+- **Nombre completo:** Matias Fernando Calfual Pérez
+- **Carerra:** Analista programador 
+- **Sede:** Duoc UC online
+  
 
 ## Descripción
 
